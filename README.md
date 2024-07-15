@@ -1,2 +1,1 @@
-# Budgeting Allocation Website
-![תמונה של WhatsApp‏ 2024-07-15 בשעה 16 08 37_4621efda](https://github.com/user-attachments/assets/d3566f28-fcbf-4f04-bb70-1ef9b9cbc6da)
+![תמונה של WhatsApp‏ 2024-07-15 בשעה 16 16 03_2d608eaa](https://github.com/user-attachments/assets/9c758d05-fb78-47f8-83ce-e9b3e7f4fbae)
